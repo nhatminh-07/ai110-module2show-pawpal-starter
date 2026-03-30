@@ -12,6 +12,15 @@ One of my UML designs are originally,
 - Systems:
 
 Class: 
+Tasks | Walk, feeding, meds, enrichment
+
+Owner|
+variables=time (GG calendar)
+priority: tasks to do (Calendar)
+List of property
+
+Plan = list of tasks
+
 
 **b. Design changes**
 
